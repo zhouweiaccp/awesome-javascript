@@ -913,6 +913,7 @@ http://www.listjs.com
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
 * [dinbror/you-might-not-need-jquery-plugins](https://github.com/dinbror/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
+* [Awesome-JavaScript-Interviews](https://github.com/rohan-paul/Awesome-JavaScript-Interviews)
 
 # Contributing
 
